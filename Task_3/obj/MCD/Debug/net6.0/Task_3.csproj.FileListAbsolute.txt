@@ -1,0 +1,15 @@
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\bin\MCD\Debug\net6.0\Task_3.exe
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\bin\MCD\Debug\net6.0\Task_3.deps.json
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\bin\MCD\Debug\net6.0\Task_3.runtimeconfig.json
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\bin\MCD\Debug\net6.0\Task_3.dll
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\bin\MCD\Debug\net6.0\Task_3.pdb
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\obj\MCD\Debug\net6.0\Task_3.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\obj\MCD\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\obj\MCD\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\obj\MCD\Debug\net6.0\Task_3.AssemblyInfo.cs
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\obj\MCD\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\obj\MCD\Debug\net6.0\Task_3.dll
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\obj\MCD\Debug\net6.0\refint\Task_3.dll
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\obj\MCD\Debug\net6.0\Task_3.pdb
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\obj\MCD\Debug\net6.0\Task_3.genruntimeconfig.cache
+C:\Users\Иван\Desktop\GeekBrains\C#\lesson8_homework\Task_3\obj\MCD\Debug\net6.0\ref\Task_3.dll
